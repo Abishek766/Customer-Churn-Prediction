@@ -38,5 +38,5 @@ This project uses the **Telco Customer Churn** dataset and implements a complete
 Telco Customer Churn dataset from Kaggle or IBM.
 
 ## 🔗 Source Code
-[Click here to view the source code](https://github.com/Abishek766/AI/blob/d108b86fa1a1f0c9f30a63b9ca95e684c67fd338/AI/Machine_Learning/Classification/classification_project.py)
+[Click here to view the source code](https://github.com/Abishek766/Customer-Churn-Prediction/blob/main/classification_project.py)
 
